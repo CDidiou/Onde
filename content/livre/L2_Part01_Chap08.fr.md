@@ -1,5 +1,5 @@
 ---
-title: "(Propagation) Encore une bougie"
+title: "(La Charpente - Propagation) Encore une bougie"
 subtitle: "Le socle"
 date: 2026-08-17
 version: 1.0

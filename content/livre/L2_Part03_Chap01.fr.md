@@ -1,5 +1,5 @@
 ---
-title: "(Interférences) Le poids des murs"
+title: "(La Charpente - Interférences) Le poids des murs"
 subtitle: "La contrefiche"
 date: 2026-08-17
 version: 1.0

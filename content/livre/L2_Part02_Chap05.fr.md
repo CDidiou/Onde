@@ -1,5 +1,5 @@
 ---
-title: "(Réflexion) Les chaises"
+title: "(La Charpente - Réflexion) Les chaises"
 subtitle: "Ce qu'on n'a pas à porter"
 date: 2026-08-17
 version: 1.0

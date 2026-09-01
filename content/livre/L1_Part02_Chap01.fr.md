@@ -1,5 +1,5 @@
 ---
-title: "(La Plume) Le temple de la charité"
+title: "(Le Bureau de Poste - La Plume) Le temple de la charité"
 subtitle: "Là où les peurs s’agenouillent"
 date: 2026-08-24
 version: 1.0

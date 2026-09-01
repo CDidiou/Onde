@@ -1,5 +1,5 @@
 ---
-title: "(La Plume) Une poignée de pétales"
+title: "(Le Bureau de Poste - La Plume) Une poignée de pétales"
 subtitle: "Sous le regard de la lune"
 date: 2026-08-24
 version: 1.0

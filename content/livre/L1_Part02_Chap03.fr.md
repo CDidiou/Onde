@@ -1,5 +1,5 @@
 ---
-title: "(La Plume) Boutons en or"
+title: "(Le Bureau de Poste - La Plume) Boutons en or"
 subtitle: "Le trouble du Curé"
 date: 2026-08-24
 version: 1.0

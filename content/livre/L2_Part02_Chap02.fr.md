@@ -1,5 +1,5 @@
 ---
-title: "(Réflexion) Le café"
+title: "(La Charpente - Réflexion) Le café"
 subtitle: "Ce qu'on ne répare pas avec les mains"
 date: 2026-08-17
 version: 1.0

@@ -1,5 +1,5 @@
 ---
-title: "(La Fièvre) Le trésor"
+title: "(Le Bureau de Poste - La Fièvre) Le trésor"
 subtitle: "Les archives parlent"
 date: 2026-08-24
 version: 1.0

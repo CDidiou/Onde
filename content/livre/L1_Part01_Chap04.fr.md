@@ -1,5 +1,5 @@
 ---
-title: "(La Fièvre) La poste réquisitionnée"
+title: "(Le Bureau de Poste - La Fièvre) La poste réquisitionnée"
 subtitle: "La République s'installe"
 date: 2026-08-24
 version: 1.0

@@ -1,5 +1,5 @@
 ---
-title: "(Interférences) Le plafond"
+title: "(La Charpente - Interférences) Le plafond"
 subtitle: "Papa"
 date: 2026-08-17
 version: 1.0

@@ -1,5 +1,5 @@
 ---
-title: "(La Plume) Le chiffre du registre"
+title: "(Le Bureau de Poste - La Plume) Le chiffre du registre"
 subtitle: "La carte et le secret"
 date: 2026-08-24
 version: 1.0

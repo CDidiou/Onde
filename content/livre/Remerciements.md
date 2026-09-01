@@ -7,7 +7,14 @@ weight: 1
 
 # L'Onde
 
-Une oeuvre en 2 parties: Le Bureau de Poste, suivi de La Charpente.
+L'onde est une oeuvre en plusieurs parties:
+- Le Bureau de Poste
+  - Partie 1: La Fièvre
+  - Partie 2: La Plume
+- La Charpente
+  - Partie 1: Propagation
+  - Partie 2: Réflexion
+  - Partie 3: Interférences
 
 ## Ce qui se transmet sans jamais être tout à fait compris
 

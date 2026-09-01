@@ -1,5 +1,5 @@
 ---
-title: "(La Fièvre) Sous la paille"
+title: "(Le Bureau de Poste - La Fièvre) Sous la paille"
 subtitle: "À l'abri des regards"
 date: 2026-08-24
 version: 1.0

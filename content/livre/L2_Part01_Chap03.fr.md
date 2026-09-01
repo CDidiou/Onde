@@ -1,5 +1,5 @@
 ---
-title: "(Propagation) Les ToTons"
+title: "(La Charpente - Propagation) Les ToTons"
 subtitle: "Faire équipe"
 date: 2026-08-17
 version: 1.0

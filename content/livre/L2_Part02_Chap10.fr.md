@@ -1,5 +1,5 @@
 ---
-title: "(Réflexion) La visite"
+title: "(La Charpente - Réflexion) La visite"
 subtitle: "La maison qu'on ne reconnaît plus"
 date: 2026-08-17
 version: 1.0

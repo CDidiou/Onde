@@ -1,5 +1,5 @@
 ---
-title: "(Réflexion) Steaks au poivre"
+title: "(La Charpente - Réflexion) Steaks au poivre"
 subtitle: "Ce que tu vois à ma place"
 date: 2026-08-17
 version: 1.0

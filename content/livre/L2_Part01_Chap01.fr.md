@@ -1,5 +1,5 @@
 ---
-title: "(Propagation) Papa raconte"
+title: "(La Charpente - Propagation) Papa raconte"
 subtitle: "Tenir la maison"
 date: 2026-08-17
 version: 1.0

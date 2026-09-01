@@ -1,5 +1,5 @@
 ---
-title: "(La Fièvre) Avec des pincettes"
+title: "(Le Bureau de Poste - La Fièvre) Avec des pincettes"
 subtitle: "Le courrier en quarantaine"
 date: 2026-08-24
 version: 1.0

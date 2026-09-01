@@ -1,5 +1,5 @@
 ---
-title: "(La Fièvre) Premiers crachats"
+title: "(Le Bureau de Poste - La Fièvre) Premiers crachats"
 subtitle: "Un devoir de pasteur"
 date: 2026-08-24
 version: 1.0

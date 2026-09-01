@@ -1,5 +1,5 @@
 ---
-title: "(La Plume) La médaille"
+title: "(Le Bureau de Poste - La Plume) La médaille"
 subtitle: "La pierre soulevée"
 date: 2026-08-24
 version: 1.0

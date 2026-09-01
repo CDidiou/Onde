@@ -1,5 +1,5 @@
 ---
-title: "(Propagation) La cloison"
+title: "(La Charpente - Propagation) La cloison"
 subtitle: "Faire tomber les murs"
 date: 2026-08-17
 version: 1.0

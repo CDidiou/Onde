@@ -1,5 +1,5 @@
 ---
-title: "(La Fièvre) Le presbytère réquisitionné"
+title: "(Le Bureau de Poste - La Fièvre) Le presbytère réquisitionné"
 subtitle: "La charité contre la maladie"
 date: 2026-08-24
 version: 1.0

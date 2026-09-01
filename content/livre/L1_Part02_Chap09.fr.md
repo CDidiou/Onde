@@ -1,5 +1,5 @@
 ---
-title: "(La Plume) La procession de joie"
+title: "(Le Bureau de Poste - La Plume) La procession de joie"
 subtitle: "Agitation dans les rangs"
 date: 2026-08-24
 version: 1.0

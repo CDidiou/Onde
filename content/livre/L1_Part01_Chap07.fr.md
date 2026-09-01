@@ -1,5 +1,5 @@
 ---
-title: "(La Fièvre) Eau de vie"
+title: "(Le Bureau de Poste - La Fièvre) Eau de vie"
 subtitle: "Petits arrangements"
 date: 2026-08-24
 version: 1.0

@@ -1,5 +1,5 @@
 ---
-title: "Avant propos"
+title: "(La Charpente) Avant propos"
 date: 2026-08-17
 version: 1.0
 weight: 201

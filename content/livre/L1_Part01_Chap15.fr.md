@@ -1,5 +1,5 @@
 ---
-title: "(La Fièvre) Prêche de nuit"
+title: "(Le Bureau de Poste - La Fièvre) Prêche de nuit"
 subtitle: "Le monde d'après"
 date: 2026-08-24
 version: 1.0

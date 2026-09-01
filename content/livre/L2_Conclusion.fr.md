@@ -1,5 +1,5 @@
 ---
-title: "Conclusion ?"
+title: "(La Charpente) Conclusion ?"
 subtitle: "La table que je n’ai pas eue"
 date: 2026-08-17
 version: 1.0

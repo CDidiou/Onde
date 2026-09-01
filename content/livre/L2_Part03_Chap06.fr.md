@@ -1,5 +1,5 @@
 ---
-title: "(Interférences) Derrière la fenêtre"
+title: "(La Charpente - Interférences) Derrière la fenêtre"
 subtitle: "Le même bois"
 date: 2026-08-17
 version: 1.0

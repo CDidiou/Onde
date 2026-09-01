@@ -1,5 +1,5 @@
 ---
-title: "Avant propos"
+title: "(Le Bureau de Poste) Avant propos"
 date: 2026-08-24
 version: 1.0
 weight: 101

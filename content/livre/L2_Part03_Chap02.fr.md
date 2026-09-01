@@ -1,5 +1,5 @@
 ---
-title: "(Interférences) Devant le lit"
+title: "(La Charpente - Interférences) Devant le lit"
 subtitle: "Ce qu’on ne dit plus pour réparer"
 date: 2026-08-17
 version: 1.0

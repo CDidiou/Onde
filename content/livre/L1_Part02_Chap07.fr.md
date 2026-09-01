@@ -1,5 +1,5 @@
 ---
-title: "(La Plume) Le miracle de la vie"
+title: "(Le Bureau de Poste - La Plume) Le miracle de la vie"
 subtitle: "Le souffle suspendu"
 date: 2026-08-24
 version: 1.0

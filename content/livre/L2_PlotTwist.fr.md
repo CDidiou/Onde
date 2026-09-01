@@ -1,5 +1,5 @@
 ---
-title: "Plot twist"
+title: "(La Charpente) Plot twist"
 subtitle: "Rendre la plume"
 date: 2026-08-17
 version: 1.0

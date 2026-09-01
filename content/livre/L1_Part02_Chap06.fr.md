@@ -1,5 +1,5 @@
 ---
-title: "(La Plume) Une aventure humaine"
+title: "(Le Bureau de Poste - La Plume) Une aventure humaine"
 subtitle: "L'heure des comptes"
 date: 2026-08-24
 version: 1.0

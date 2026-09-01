@@ -1,5 +1,5 @@
 ---
-title: "(La Fièvre) Les patriotes"
+title: "(Le Bureau de Poste - La Fièvre) Les patriotes"
 subtitle: "Une affaire de famille"
 date: 2026-08-24
 version: 1.0

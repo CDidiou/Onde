@@ -1,5 +1,5 @@
 ---
-title: "(Réflexion) Le plan de table"
+title: "(La Charpente - Réflexion) Le plan de table"
 subtitle: "Ce que l'on peut déplacer"
 date: 2026-08-17
 version: 1.0

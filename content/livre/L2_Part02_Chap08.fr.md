@@ -1,5 +1,5 @@
 ---
-title: "(Réflexion) Le temps retrouvé"
+title: "(La Charpente - Réflexion) Le temps retrouvé"
 subtitle: "Ce qu'on fait quand on n'a plus rien à prouver"
 date: 2026-08-17
 version: 1.0

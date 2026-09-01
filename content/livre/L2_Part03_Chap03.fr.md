@@ -1,5 +1,5 @@
 ---
-title: "(Interférences) L’inventaire"
+title: "(La Charpente - Interférences) L’inventaire"
 subtitle: "Ce qui ne se tient plus"
 date: 2026-08-17
 version: 1.0

@@ -1,5 +1,5 @@
 ---
-title: "(Propagation) Le pilulier"
+title: "(La Charpente - Propagation) Le pilulier"
 subtitle: "Les mêmes outils"
 date: 2026-08-17
 version: 1.0

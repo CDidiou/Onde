@@ -1,5 +1,5 @@
 ---
-title: "(La Plume) Ou se taisent à jamais"
+title: "(Le Bureau de Poste - La Plume) Ou se taisent à jamais"
 subtitle: "Ultime témoin"
 date: 2026-08-24
 version: 1.0

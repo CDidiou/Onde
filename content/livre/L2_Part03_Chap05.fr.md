@@ -1,5 +1,5 @@
 ---
-title: "(Interférences) Après l’inventaire"
+title: "(La Charpente - Interférences) Après l’inventaire"
 subtitle: "C’est à vous"
 date: 2026-08-17
 version: 1.0

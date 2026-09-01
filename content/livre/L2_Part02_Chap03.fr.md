@@ -1,5 +1,5 @@
 ---
-title: "(Réflexion) L'assiette sale"
+title: "(La Charpente - Réflexion) L'assiette sale"
 subtitle: "Ce qu'on laisse en désordre"
 date: 2026-08-17
 version: 1.0

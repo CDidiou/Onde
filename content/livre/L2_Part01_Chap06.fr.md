@@ -1,5 +1,5 @@
 ---
-title: "(Propagation) Le numéro 9"
+title: "(La Charpente - Propagation) Le numéro 9"
 subtitle: "Jouer avec ses forces"
 date: 2026-08-17
 version: 1.0

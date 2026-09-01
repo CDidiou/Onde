@@ -1,5 +1,5 @@
 ---
-title: "(Propagation) L'embrouille"
+title: "(La Charpente - Propagation) L'embrouille"
 subtitle: "Rouvrir la porte"
 date: 2026-08-17
 version: 1.0

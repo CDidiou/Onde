@@ -1,5 +1,5 @@
 ---
-title: "(Propagation) L'après-guerre"
+title: "(La Charpente - Propagation) L'après-guerre"
 subtitle: "Dialogues imaginaires sur ce qui se transmet, et sur ce qui, malgré tout, se choisit"
 date: 2026-08-17
 version: 1.0

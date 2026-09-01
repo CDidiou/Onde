@@ -1,5 +1,5 @@
 ---
-title: "(La Plume) L'encre ou l'oubli"
+title: "(Le Bureau de Poste - La Plume) L'encre ou l'oubli"
 subtitle: "Dans le coffre"
 date: 2026-08-24
 version: 1.0

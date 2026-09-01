@@ -1,5 +1,5 @@
 ---
-title: "(La Fièvre) La menace de l'épidémie"
+title: "(Le Bureau de Poste - La Fièvre) La menace de l'épidémie"
 subtitle: "Roulements de tambour"
 date: 2026-08-24
 version: 1.0
