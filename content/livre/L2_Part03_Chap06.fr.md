@@ -1,118 +1,197 @@
 ---
-title: "(La Charpente - Interférences) Derrière la fenêtre"
-subtitle: "Le même bois"
+title: "(La Charpente - Interférences) Après l’inventaire"
+subtitle: "C’est à vous"
 date: 2026-08-17
 version: 1.0
-description: "Frappe dans le dos"
+description: "Procédure de conciliation"
 weight: 231
 ---
 
-Deux mois plus tard.
-Le père est rentré. Pas à la maison d’enfance (vendue en partie, transformée, perdue). Dans un appartement plus petit, au rez-de-chaussée, avec une rampe et une grande fenêtre qui donne sur un square. La mère y vient trois fois par semaine. Elle apporte les courses, range un peu, s’assoit une heure, repart. Elle ne décide plus de grand-chose. Elle est là, c’est tout.
-Ce jour-là, l’aîné est passé pour les papiers de la banque. Il est resté debout, a parlé vite, a reparlé. Puis le cadet est arrivé. Il n’a rien apporté. Il s’est juste assis.
-Le père est dans son fauteuil près de la fenêtre. Il regarde les enfants qui jouent dans le square. De temps en temps il sourit, sans raison précise.
+La maison est sous scellés depuis huit jours.  
+Les volets neufs restent fermés. La pancarte « Chambres d’hôtes » a disparu.
 
-Le père :
-Vous vous souvenez de l’établi de mon père, sous la fenêtre ?
+L’aîné débarque un mardi matin chez le cadet, un dossier sous le bras.  
+Il n’enlève pas son manteau.
 
-Le cadet :
+**Tazar :**
+J’ai déposé une requête en annulation de la saisie.  
+Il y a des irrégularités dans la procédure. Les délais n’ont pas été respectés. On peut encore la faire tomber.
+
+---
+
+Le bureau de l’avocat sent le cuir neuf et le café trop fort. L’aîné a réservé la petite salle du fond, celle qu’on appelle « salon de conciliation ». Trois fauteuils, une table basse, une fenêtre qui donne sur une cour intérieure grise. L’avocat les a laissés seuls, en disant qu’il reviendrait quand ils auraient besoin de lui pour formaliser.
+
+L’aîné a déjà ouvert son dossier. Des feuilles bien alignées, des post-it, un stylo prêt.
+
+**Tazar :**
+Il faut qu’on règle ça aujourd’hui. La banque ne va pas attendre. Si on transfère les parts maintenant, on peut encore négocier un échelonnement. Toi tu signes ici, et ici. Après on voit pour la maison.
+
+*(Le cadet n’a pas touché aux documents. Il regarde la table, puis la fenêtre, puis son frère.)*
+
+**2J :**
+Tu as déjà tout décidé.
+
+**Tazar :**
+J’ai tout préparé. C’est pas la même chose.  
+Si on ne bouge pas, ils saisissent. Tu veux qu’on perde tout d’un coup ?
+
+*(Un temps. L'aîné jette un œil vers la porte, s'assure qu'elle est bien fermée, se penche un peu, la voix plus basse.)*
+
+**Tazar :**
+Il faut vraiment qu'on aille vite. Plus vite que ce que je te dis là.
+
+**2J :**
+Pourquoi vite comme ça, précisément.
+
+*(L'aîné hésite. Ce n'est pas une hésitation stratégique, cette fois — quelque chose de différent, de plus nu.)*
+
+**Tazar :**
+Ma boîte prend l'eau.
+
+**2J :**
+Depuis quand ?
+
+**Tazar :**
+Depuis un moment. Depuis avant l'accident, en fait. L'accident, ça a juste... accéléré les choses. Deux clients sont partis en même temps le mois dernier. Le fournisseur menace de couper les livraisons si je paye pas d'ici trois semaines. J'ai plus grand-chose devant moi.
+
+*(Le cadet reste silencieux, le temps de comprendre.)*
+
+**2J :**
+Et la maison, dans tout ça.
+
+**Tazar :**
+La maison, c'est pour papa. Officiellement. Mais si je peux dégager du liquide avec la vente, une partie va me servir aussi, à moi. Pour tenir encore quelques mois. Le temps de retourner la situation.
+
+**2J :** 
+Tu comptais me le dire quand, ça ?
+
+**Tazar :**
+Là. Maintenant. Avant que maman arrive.
+
+*(Il regarde son frère bien en face, pour la première fois depuis qu'il est entré dans la pièce.)*
+
+**Tazar :**
+Pas un mot à elle. Ni à papa. Ils ont déjà assez porté. Si maman apprend que je coule aussi, elle va vouloir régler ça elle-même, comme d'habitude, et je refuse. C'est mon problème, pas le sien.
+
+**2J :** 
+Et moi, je suis censé porter ça tout seul, de mon côté, en plus du reste.
+
+**Tazar :**
+Mais t'as rien à porter. T'as juste à signer.
+
+*(Un silence. Le cadet regarde les papiers étalés sur la table, différemment maintenant.)*
+
+**2J :**
+J'ai compris. C'est d'accord.
+
+**Tazar :** *(un signe de tête, un regard)*
+Merci, frère.
+
+*(Il se redresse, referme aussitôt le visage, reprend son ton habituel, plus dur, comme si la confidence n'avait jamais eu lieu.)*
+
+**Tazar :**
+Bon. Les signatures, alors.
+
+*(La porte s’ouvre. La mère entre sans frapper. Elle porte un classeur épais sous le bras, le même qu’elle utilisait autrefois pour ses dossiers d’école. Elle le pose sur la table, à côté de celui de l’aîné, et s’assoit. Elle n’enleve pas son manteau.)*
+
+**La mère :**
+Bonjour.
+
+*(Les deux fils se taisent.)*
+
+**Tazar :**
+Maman, on était en train de…
+
+**La mère :**
+Je sais.  
+J’ai tout rassemblé.
+
+*(Elle ouvre le classeur. À l’intérieur, des chemises étiquetées à la main : *Comptes – Assurances – Médical – Maison – Entreprise – Contacts*. Chaque document est classé, annoté au crayon, daté.)*
+
+**La mère :**
+Les codes d’accès. Les procurations que j’avais encore. Les derniers relevés. Le nom du notaire. Celui de l’assureur. Les numéros des médecins. Ce que j’ai pu récupérer sur les dettes de ta société.  
+Tout est là. Vous n’aurez rien à chercher.
+
+*(L’aîné se penche, feuillete rapidement. Le cadet ne bouge pas.)*
+
+**2J :**
+Tu as fait ça toute seule.
+
+**La mère :**
 Oui.
 
-Le père :
-Ton grand-père restait des heures. Il ne disait rien. Moi je restais derrière, à le regarder.
-C’est drôle. Maintenant c’est moi qui regarde par la fenêtre. Et vous, derrière.
+**Tazar :**
+C’est bien. On va pouvoir avancer plus vite. Il faut juste que tu signes encore cette page, et que lui signe le transfert.
 
-Le cadet ne répond pas tout de suite. Il regarde aussi le square.
+*(La mère referme le classeur d’un geste net et le pousse vers le milieu de la table, entre eux deux.)*
 
-L'aîné :
-Maman est passée ce matin ?
+**La mère :**
+Non.  
+Je ne signe plus rien.  
+Je ne décide plus rien.  
+Je ne tiens plus rien.
 
-Le père :
-Oui. Elle a laissé des fruits. Elle a dit qu’elle reviendrait jeudi.
+*(Silence.)*
 
-Elle ne reste plus longtemps. Mais elle vient.
-Silence.
+**Tazar :**
+Maman, on a besoin que…
 
-Le père :
-Vous avez beaucoup de choses à régler ?
+**La mère :**
+Vous n’avez plus besoin de moi.  
+Tout est dans le classeur. Vous avez les papiers, vous avez les clés, vous avez les numéros.  
+C’est à vous maintenant.
 
-L'aîné :
-Oui. C'est moi qui m'en occupe.
+*(Elle se leve.)*
 
+**2J :**
+Tu ne peux pas juste…
 
+**La mère :**
+Si.  
+Je peux.
 
+*(Elle rajuste son manteau.)*
 
+**Tazar :**
+Et papa ?
 
-Ils sont trois devant la grande fenêtre. Le père dans son fauteuil, un peu flottant, les yeux mi-clos par moments. L’aîné debout, les mains dans les poches. Le cadet sur la chaise un peu trop basse, à côté.
-Dehors, un enfant crie. Un ballon rebondit contre le grillage. Le père esquisse un nouveau sourire, très léger.
+**La mère :**
+Votre père parle de l’établi. Du graffiti. Des repas d’avant.  
+Il est déjà ailleurs.  
+Moi aussi, maintenant.
 
-Le père, sans les regarder.
+*(Elle traverse la pièce. À la porte, elle se retourne une dernière fois. Pas pour les supplier, pas pour s’excuser. Juste pour vérifier qu’ils ont bien compris.)*
 
-**Le père :**  
-Vous avez été nuls.
+**La mère :**
+Ne m’appelez pas pour les détails.  
+Je ne répondrai plus.  
+Débrouillez-vous.
 
-L’aîné tourna la tête. Le cadet aussi.
+*(Elle sort. La porte se referme sans bruit.)*
+*(Les deux frères restent immobiles. Le classeur est là, entre eux, fermé. L’aîné le regarde comme un chantier qu’il faut attaquer tout de suite. Le cadet le regarde comme un objet qu’on ne sait plus où ranger.)*
 
-**Le père :**  
-Toi, tu as foncé comme un con.
-Toi, tu as tout regardé sans bouger.
-Et moi… moi j’ai laissé faire.
-On a tout cassé proprement.
+**Tazar :**
+Bon.  
+On commence par le transfert.
 
-Il sourit, un sourire un peu de travers, à moitié dans les nuages.
+**2J :**
+Tu as entendu ce qu’elle a dit ?
 
-**Le père :**  
-Mais je ne vous en veux plus.
-Parce que vous êtes là.
-Vous avez tenu.
-Chacun à sa façon, bancale, mais vous avez tenu.
+**Tazar :**
+Oui.  
+Elle nous a tout donné. Alors on fait ce qu’il faut.
 
-Il chercha ses mots un moment, comme s’ils flottaient un peu trop loin.
+*(Il ouvre déjà la première chemise. Le cadet, lui, n’a toujours pas touché aux papiers. Il regarde la porte fermée, puis la fenêtre, puis son frère.)*
 
-**Le père :**  
-On a le même bois, vous savez.
-Le même.
-Même quand il craque.
-Même quand il pourrit par un bout.
-C’est le nôtre.
+**2J :**
+Elle a coupé.
 
-Il tend la main et serre l’épaule de l’aîné. Fort. Comme on vérifie qu’une poutre est encore solide.
+**Tazar :**
+Elle a transmis.  
+C’est pas pareil.
 
-L’aîné ne dit rien. Il laisse la main de son père posée là une seconde de trop, puis, sans un mot, il se tourne vers son frère, lui fait signe de s'approcher, et lui met sa grande tape habituelle dans le dos. Un peu trop lourde. Comme toujours.
+**Le cadet :**  
+Si.  
+C’est exactement pareil.
 
-Le cadet tousse, surpris, et les trois se mettent à rire en même temps. Un rire court, un peu cassé, mais vrai. Le père le premier, les yeux encore mi-clos. Puis l’aîné. Puis le cadet.
-
-Ils rient devant la fenêtre, sans rien ajouter, pendant que le ballon dehors reste immobile contre le grillage.
-
-Quand le rire retombe, le père garde sa main un instant sur l’épaule de l’aîné, et l’aîné garde la sienne un instant sur l’épaule du cadet.
-
-Le même bois.
-
-Et pour la première fois depuis longtemps, ça suffisait.
-
-
-Le soir, dans la chambre, le père se recouche. Épuisé, mais le sourire qui ne veut pas partir. Il repense à la main sur l'épaule de l'aîné. À celle de l'aîné, ensuite, sur celle du cadet. Une pièce qui en retient une autre, qui en retient une autre. Il ferme les yeux.
-
-*Ça a tenu parce que j'ai tenu. C'est moi qui ai remis la structure droite. Comme toujours.*
-
-Il s'endort avec cette pensée-là, posée sur lui comme une couverture, et ne voit pas qu'elle est faite du même bois que celle qui a cédé sur le chantier.
-
-Dans la voiture, l'aîné a le téléphone à l'oreille avant même d'avoir démarré.
-
-Maître Rossi ? Oui, c'est encore moi. Écoutez, la situation a changé. Mon père va mieux. Beaucoup mieux, même. C'est le moment d'avancer, pas de traîner. Je veux qu'on relance le dossier de rachat de parts dès demain matin.
-
-*Il raccroche, démarre, ne remarque pas qu'il a déjà, dans sa tête, posé une nouvelle poutre à l'endroit exact où l'ancienne a cassé.*
-
-Le cadet, lui, rentre à pied. Il repense à la scène, presque malgré lui, comme on range un chantier avant la nuit.
-
-Papa est resté dans l'instant. Une pièce de bois qu'on vient de poser, encore chaude de la scie, qui ne sait pas encore qu'elle va devoir porter un poids. Mon frère, lui, est déjà en train d'en couper une autre. Il n'a jamais su rester sur un même chantier plus d'une soirée. Maman s'est retirée. Elle regarde de loin, elle a mis une bâche sur ce qu'elle ne peut plus porter.
-
-Il continue à marcher, presque satisfait de la netteté de son propre diagnostic. Trois pièces de bois, trois façons de plier sous la charge.
-
-Puis il essaie de se poser la même question sur lui-même.
-
-Et moi ?
-
-*Il ne trouve rien à répondre. Il regarde ses mains, vides, qui n'ont rien apporté ce soir-là, comme d'habitude depuis l'accident. Il continue de marcher.*
-
-La question reste posée dans l'air, comme une planche qu'on aurait oubliée de clouer.
+*(L’aîné ne répond pas. Il a déjà sorti son stylo.)*

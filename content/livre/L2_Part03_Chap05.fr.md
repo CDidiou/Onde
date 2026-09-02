@@ -1,140 +1,66 @@
 ---
-title: "(La Charpente - Interférences) Après l’inventaire"
-subtitle: "C’est à vous"
+title: "(La Charpente - Interférences) Le plafond"
+subtitle: "Papa"
 date: 2026-08-17
 version: 1.0
-description: "Procédure de conciliation"
+description: "Une fissure au plafond"
 weight: 230
 ---
 
-La maison est sous scellés depuis huit jours.  
-Les volets neufs restent fermés. La pancarte « Chambres d’hôtes » a disparu.
+Le père, sur son lit d'hôpital, regarde le plafond depuis des heures.  
+Les joints blancs forment des lignes droites, presque parfaites. Une fissure part du coin gauche et s’arrête net, comme si quelqu’un avait décidé d’arrêter de pousser.
 
-L’aîné débarque un mardi matin chez le cadet, un dossier sous le bras.  
-Il n’enlève pas son manteau.
+Il ne sent plus ses jambes.  
+Il le savait déjà. Les médecins l’ont dit sans détour. Mais le savoir et le sentir, ce n’est pas la même chose. Le savoir reste dehors. Le sentir, lui, est là, collé au matelas.
 
-**Le fils aîné :**
-J’ai déposé une requête en annulation de la saisie.  
-Il y a des irrégularités dans la procédure. Les délais n’ont pas été respectés. On peut encore la faire tomber.
+Les garçons sont partis.  
+L’aîné a claqué la porte. Le cadet est resté plus longtemps, assis sur la chaise trop basse, les mains jointes. Il n’a presque rien dit. Comme d’habitude.
 
----
+Il regrette.
 
-Le bureau de l’avocat sent le cuir neuf et le café trop fort. L’aîné a réservé la petite salle du fond, celle qu’on appelle « salon de conciliation ». Trois fauteuils, une table basse, une fenêtre qui donne sur une cour intérieure grise. L’avocat les a laissés seuls, en disant qu’il reviendrait quand ils auraient besoin de lui pour formaliser.
+Pas l’accident. Pas vraiment.  
+Il regrette plus tôt. Beaucoup plus tôt.
 
-L’aîné a déjà ouvert son dossier. Des feuilles bien alignées, des post-it, un stylo prêt.
+Quand ils étaient petits, il aurait dû tenir plus ferme.  
+Leur dire non quand il fallait. Leur montrer où s’arrêtait le terrain, au lieu de toujours élargir la table pour qu’ils aient tous de la place. Il a laissé l’aîné foncer parce qu’il croyait que c’était de la force. Il a laissé le cadet s’effacer parce qu’il croyait que c’était de la prudence. Il a cru que tenir la table suffisait. Que la chaleur ferait le reste.
 
-**Le fils aîné :**
-Il faut qu’on règle ça aujourd’hui. La banque ne va pas attendre. Si on transfère les parts maintenant, on peut encore négocier un échelonnement. Toi tu signes ici, et ici. Après on voit pour la maison.
+Elle n’a pas tout fait.
 
-*(Le cadet n’a pas touché aux documents. Il regarde la table, puis la fenêtre, puis son frère.)*
+L’aîné a grandi avec l’idée qu’il fallait gagner, sinon on disparaissait.  
+Le cadet a grandi avec l’idée qu’il valait mieux comprendre de loin que risquer d’être touché.  
+Et lui, au milieu, il a continué à servir, à redresser les chaises, à attendre que l’orage passe.
 
-**Le fils cadet :**
-Tu as déjà tout décidé.
+Il regrette leurs caractères.  
+Non. Il regrette de n’avoir pas assez pesé sur eux quand il était encore temps.  
+Maintenant c’est trop tard. L’un a pris la masse. L’autre a vendu le livre. Et lui est là, les jambes inertes, à regarder un plafond qui ne répond pas.
 
-**Le fils aîné :**
-J’ai tout préparé. C’est pas la même chose.  
-Si on ne bouge pas, ils saisissent. Tu veux qu’on perde tout d’un coup ?
+Il pense à son père.
 
-*(La porte s’ouvre. La mère entre sans frapper. Elle porte un classeur épais sous le bras, le même qu’elle utilisait autrefois pour ses dossiers d’école. Elle le pose sur la table, à côté de celui de l’aîné, et s’assoit. Elle n’enleve pas son manteau.)*
+Le rabot, sous la fenêtre.  
+Le silence dans la maison. Et dehors, le même homme qui chantait et riait si fort. Les fêtes, le village, tout le monde t'aimait, papa.
 
-**La mère :**
-Bonjour.
+Il lui parle, tout bas, sans bouger les lèvres.
 
-*(Les deux fils se taisent.)*
+Papa.
+Je ne t’ai pas trahi.  
+J’ai pris les deux, c’est vrai. La fête dehors et le silence dedans. Je les ai collés ensemble sans même m’en rendre compte. J’ai voulu être l’homme du village et j’ai gardé le repli. Je te regardais partir à l’établi quand ça grondait. Aujourd’hui je sais que c’était. Une façon de tenir sans se battre. Une façon de rester.
 
-**Le fils aîné :**
-Maman, on était en train de…
+Je t’ai compris, papa.  
+Et je n’ai pas su le transmettre autrement qu’en tenant la table.
 
-**La mère :**
-Je sais.  
-J’ai tout rassemblé.
+Tu savais tenir, toi, papa.
+Tu m'as secoué quand il fallait, je m'en souviens encore. Oui, tu as eu la poigne que je n'ai pas su avoir, papa.
+Pardonne-moi, papa.
+Ils ont tout fichu par terre.
 
-*(Elle ouvre le classeur. À l’intérieur, des chemises étiquetées à la main : *Comptes – Assurances – Médical – Maison – Entreprise – Contacts*. Chaque document est classé, annoté au crayon, daté.)*
+La fissure au plafond n’a pas bougé.  
+Une infirmière passe dans le couloir. Des voix lointaines. Le bip régulier d’une machine quelque part.
 
-**La mère :**
-Les codes d’accès. Les procurations que j’avais encore. Les derniers relevés. Le nom du notaire. Celui de l’assureur. Les numéros des médecins. Ce que j’ai pu récupérer sur les dettes de ta société.  
-Tout est là. Vous n’aurez rien à chercher.
+Il ferme les yeux un instant.  
+Il revoit les mains de son père sur le bois. Le bruit du rabot qui faisait taire le reste.  
+Il aurait voulu, juste une fois, lui dire tout ça à voix haute.  
+Maintenant il le dit au plafond.
 
-*(L’aîné se penche, feuillete rapidement. Le cadet ne bouge pas.)*
-
-**Le fils cadet :**
-Tu as fait ça toute seule.
-
-**La mère :**
-Oui.
-
-**Le fils aîné :**
-C’est bien. On va pouvoir avancer plus vite. Il faut juste que tu signes encore cette page, et que lui signe le transfert.
-
-*(La mère referme le classeur d’un geste net et le pousse vers le milieu de la table, entre eux deux.)*
-
-**La mère :**
-Non.  
-Je ne signe plus rien.  
-Je ne décide plus rien.  
-Je ne tiens plus rien.
-
-*(Silence.)*
-
-**Le fils aîné :**
-Maman, on a besoin que…
-
-**La mère :**
-Vous n’avez plus besoin de moi.  
-Tout est dans le classeur. Vous avez les papiers, vous avez les clés, vous avez les numéros.  
-C’est à vous maintenant.
-
-*(Elle se leve.)*
-
-**Le fils cadet :**
-Tu ne peux pas juste…
-
-**La mère :**
-Si.  
-Je peux.
-
-*(Elle rajuste son manteau.)*
-
-**Le fils aîné :**
-Et papa ?
-
-**La mère :**
-Votre père parle de l’établi. Du graffiti. Des repas d’avant.  
-Il est déjà ailleurs.  
-Moi aussi, maintenant.
-
-*(Elle traverse la pièce. À la porte, elle se retourne une dernière fois. Pas pour les supplier, pas pour s’excuser. Juste pour vérifier qu’ils ont bien compris.)*
-
-**La mère :**
-Ne m’appelez pas pour les détails.  
-Je ne répondrai plus.  
-Débrouillez-vous.
-
-*(Elle sort. La porte se referme sans bruit.)*
-*(Les deux frères restent immobiles. Le classeur est là, entre eux, fermé. L’aîné le regarde comme un chantier qu’il faut attaquer tout de suite. Le cadet le regarde comme un objet qu’on ne sait plus où ranger.)*
-
-**Le fils aîné :**
-Bon.  
-On commence par le transfert.
-
-**Le fils cadet :**
-Tu as entendu ce qu’elle a dit ?
-
-**Le fils aîné :**
-Oui.  
-Elle nous a tout donné. Alors on fait ce qu’il faut.
-
-*(Il ouvre déjà la première chemise. Le cadet, lui, n’a toujours pas touché aux papiers. Il regarde la porte fermée, puis la fenêtre, puis son frère.)*
-
-**Le fils cadet :**
-Elle a coupé.
-
-**Le fils aîné :**
-Elle a transmis.  
-C’est pas pareil.
-
-**Le cadet :**  
-Si.  
-C’est exactement pareil.
-
-*(L’aîné ne répond pas. Il a déjà sorti son stylo.)*
+Je ne t’ai pas trahi.  
+Je t’ai juste prolongé.  
+Et ça n’a pas suffi.

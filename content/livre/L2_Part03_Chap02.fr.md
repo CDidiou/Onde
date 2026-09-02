@@ -1,112 +1,90 @@
 ---
-title: "(La Charpente - Interférences) Devant le lit"
-subtitle: "Ce qu’on ne dit plus pour réparer"
+title: "(La Charpente - Interférences) Les prénoms"
+subtitle: "Ce qu'on signe"
 date: 2026-08-17
 version: 1.0
-description: "Règlement de comptes entre les deux frères devant le lit d'hôpital du père."
+description: "Découverte des deux prénoms."
 weight: 227
 ---
 
-*(Chambre d’hôpital. Stores baissés. Le père est allongé, les draps tirés jusqu’à la poitrine. Ses mains reposent à plat sur le drap, trop immobiles. Il regarde le plafond. Les deux fils sont debout de chaque côté du lit. Personne ne s’est assis.)*
+Le bureau des admissions sent le désinfectant et le café de machine. Une femme en blouse grise, derrière un écran trop petit, tape sans lever les yeux.
 
-**Le fils aîné :**
-Tu as vendu le livre.
+**L'employée :** Nom du patient.
 
-*(Le cadet ne répond pas. Il regarde les mains de son père.)*
+**Le fils aîné :** Il est déjà dans le dossier. On vient juste pour la procuration.
 
-**Le fils aîné :**
-J'ai eu l'appel de l'éditeur ce matin. Dans la salle d'attente. Pendant qu'on attendait de savoir s'il remarcherait.
+**L'employée :** *(sans se démonter)* Nom, prénom, lien de parenté. Pour chacun des deux signataires.
 
-**Le fils cadet :**
-J’avais besoin d’argent.
+*(Un silence. L'aîné regarde son frère. Le cadet regarde l'écran.)*
 
-**Le fils aîné :** *(un rire sans rien dedans)*
-Bien sûr.
+**L'employée :** *(toujours tapant)* Vous d'abord.
 
-*(Il fait deux pas, s'arrête devant la fenêtre, dos à eux.)*
+*(L'aîné hésite une fraction de seconde de trop — comme si le mot allait lui coûter quelque chose.)*
 
-**Le fils cadet :**
-Dis quelque chose de vrai, pour une fois. Pas juste "bien sûr".
+**Le fils aîné :** Balthazar.
 
-**Le fils aîné :**
-Qu'est-ce que tu veux que je dise.
+*(Le cadet tourne la tête vers lui, presque malgré lui. Vingt ans qu'il ne l'a pas entendu, ce prénom-là, sinon dans la bouche d'un prêtre ou d'un médecin. Un prénom de crèche, de nuit de baptême, un prénom qu'on range avec les papiers importants et qu'on ne ressort jamais.)*
 
-**Le fils cadet :**
-Je sais pas. N'importe quoi. Mais pas ça.
+**L'employée :** Et le second signataire.
 
-*(Le père cligne des yeux. Rien d’autre.)*
+**Le fils cadet :** *(après un temps)* Jean-Joseph.
 
-**Le fils aîné :** *(toujours face à la fenêtre)*
-Tu te souviens de la dernière fois qu'on s'est vraiment engueulés, tous les deux ? Vraiment.
+*(L'employée tape sans relever la tête, indifférente à ce que ces deux syllabes viennent de rouvrir. Dehors, dans le couloir, une civière passe en grinçant.)*
 
-**Le fils cadet :**
-Non
+---
 
-**Le fils aîné :**
-Moi non plus.
+Ils sortent avec les papiers pliés en quatre dans la poche de l'aîné. L'ascenseur descend en silence. C'est le cadet qui parle le premier, une fois dehors, dans le parking presque vide, sous un ciel bas.
 
-*(Il se retourne enfin.)*
+**Le fils cadet :** Ça fait bizarre.
 
-**Le fils aîné :**
-On n'a jamais gueulé. On a juste... chacun fait notre truc, dans notre coin, en silence, pendant vingt ans. Et regarde où ça nous a menés.
+**Le fils aîné :** Quoi donc.
 
-**Le fils cadet :**
-Ça n'a rien à voir avec le silence. C'est une poutre qui a cédé.
+**Le fils cadet :** T'entendre dire ton prénom à voix haute. Je crois que je l'ai jamais dit, moi. *(Un temps.)* Pour moi, t'es Tazar, c'est tout. Tazar qui fait jamais rien au hasard.
 
-**Le fils aîné :**
-Une poutre que j'ai touchée, oui. Vas-y, dis-le.
+**Le fils aîné :** *(un sourire de travers)* Jean-Joseph. Sérieux, ton prénom. Deux J. Pour moi, t'es et tu seras toujours 2J. Le roi du double jeu.
 
-**Le fils cadet :**
-Je l'ai pas dit.
+**Le fils cadet :** Très drôle.
 
-**Le fils aîné :**
-Tu l'as pensé.
+**Le fils aîné :** Je rigole qu'à moitié.
 
-**Le fils cadet :**
-J'ai pensé beaucoup de choses. Genre : pourquoi t'as pas attendu l'artisan. Genre : pourquoi tu peux jamais juste attendre.
+*(Ils marchent un moment sans rien ajouter, entre les voitures, vers celle de l'aîné.)*
 
-*(L'aîné ferme les yeux une seconde, encaisse.)*
+**Le fils cadet :** Tu sais pourquoi les parents t'ont donné ce prénom, toi, Tazar ?
 
-**Le fils aîné :**
-Vas-y, continue. C'est le moment, non ? Papa peut pas bouger, il peut juste écouter. C'est le moment ou jamais pour toi de vider ton sac.
+**Le fils aîné :** Va savoir. Balthazar, c'était un roi de Babylone, dans la Bible. Un type qui organise un banquet immense, tout en or, tout en fête — et cette nuit-là même, une main écrit sur son mur qu'il a été pesé et trouvé trop léger. Il perd son royaume avant le matin.
 
-**Le fils cadet :**
-Arrête.
+**Le fils cadet :** Je ne savais pas si attentif au catéchisme, toi ?
 
-**Le fils aîné :**
-Non, sérieux. Je t'ai jamais vu vider ton sac. Jamais. Alors vas-y.
+**Le fils aîné :** *(un rire sec, sans joie)* Le curé de l'école aimait bien cette histoire-là. Il devait déjà savoir un truc sur moi, va.
 
-*(Un silence différent, cette fois. Le cadet regarde son frère, puis la fenêtre, puis de nouveau son frère.)*
+*(Il s'arrête devant la voiture, la main sur la poignée, mais ne l'ouvre pas tout de suite.)*
 
-**Le fils cadet :**
-J'ai peur que tu m'en veuilles toute ta vie pour un truc que t'as fait toi-même.
+**Le fils aîné :** J'ai toujours détesté ce prénom. À l'école je le donnais jamais. "Balthazar", ça fait costume de crèche. "Tazar", ça me va très bien. Ça garde que le solide.
 
-*(Rien. L'aîné ne répond pas tout de suite. Il se rapproche du lit, très lentement.)*
+**Le fils cadet :** Moi c'est l'inverse. "2J", j'ai toujours aimé qu'on m'appelle comme ça. Ça demande rien. C'est un code, pas un nom. Personne t'interroge sur un code.
 
-**Le fils aîné :**
-J'ai peur pareil. Sauf que moi c'est pour un truc que j'ai vraiment fait.
+*(Il regarde ses mains, un instant, comme il le fait souvent depuis l'accident.)*
 
-*(Il s'arrête devant le lit. Regarde son père. Sa voix change, plus basse.)*
+**Le fils aîné :** Jean-Joseph, sérieux... si je le dis à voix haute, j'ai l'impression que c'est le début d'une longue prière. Je sens le sermon qui va arriver. Déjà ça m'énerve.
 
-**Le fils aîné :**
-Papa. *(Rien.)*
-Je sais que tu entends.
-*(Il prend une inspiration, cherche ses mots, n'en trouve pas de propres, se lance quand même.)*
-La maison. Je vais m'en occuper. Je sais pas encore comment, mais je vais m'en occuper.
+*(L'aîné le regarde, presque surpris de l'entendre dire un truc pareil sans détour.)*
 
-*(Il pose sa main sur celle de son père, un instant, maladroit, comme s'il ne savait pas si le geste était permis.)*
+**Le fils cadet :** J'ai un truc solennel à te dire. J'ai écrit un livre sur nous tous. Et là, cette semaine, je vais peut-être le vendre pour payer une partie de l'hôpital.
 
-**Le fils aîné :**
-Je suis désolé.
+*(Un silence. L'aîné ouvre enfin la portière, mais ne monte pas.)*
 
-*(Ce sont les seuls mots simples qu'il ait dits depuis le début. Ni lui ni le cadet ne bougent, un moment. Puis l'aîné retire sa main, se redresse, retrouve d'un coup sa voix habituelle, plus dure.)*
+**Le fils aîné :** Tu comptais me le dire quand ?
 
-**Le fils aîné :** *(à son frère, sans le regarder)*
-Toi tu peux repartir écrire, si tu veux. Y a plus grand-chose à observer, ici.
+**Le fils cadet :** J'sais pas. Je crois que j'espérais pas avoir à le dire. Juste le faire, et que ça se voie jamais.
 
-*(Il sort. La porte se referme avec un bruit sourd. Le cadet reste debout un long moment. Il regarde son père. Le père le regarde en retour. Aucun des deux ne parle. Le cadet finit par s’asseoir, enfin, sur la chaise trop basse. Ses mains jointes entre les genoux.)*
+**Le fils aîné :** *(après un temps, plus bas qu'avant)* Fais-le, si tu dois le faire.
 
-**Le fils cadet :** *(très bas, presque pour lui-même)*
-Je sais pas quoi te dire non plus, papa.
+**Le fils cadet :** T'es sûr ?
 
-*(Le père tourne légèrement la tête vers lui. Rien d'autre. Dehors, dans le couloir, des pas qui s'éloignent, puis plus rien.)*
+**Le fils aîné :** Non. Mais un roi de Babylone, ça a au moins le mérite de savoir quand céder son or plutôt que de tout perdre d'un coup. Alors si vendre ton bouquin ça aide à payer la chambre de papa, je vais pas être celui qui bloque, cette fois.
+
+*(Il monte dans la voiture. Le cadet reste un instant dehors, la main sur le toit, avant de faire le tour et de s'installer côté passager. Le moteur démarre.)*
+
+**2J :** Tout le monde nous a toujours appelé Tazar et 2J ! Franchement, quand t'y penses, ça fait quand même clowns de cirque !
+
+**Tazar :** On l'a toujours été. On avait juste pas les noms sur les costumes.

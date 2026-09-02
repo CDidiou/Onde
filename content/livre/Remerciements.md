@@ -1,5 +1,5 @@
 ---
-title: "Cycle Bernardy-Lilaz"
+title: "(L'onde) Cycle Bernardy-Lilaz"
 date: 2026-08-24
 version: 1.0
 weight: 1
@@ -70,16 +70,20 @@ Ce qui se transmet sans jamais être tout à fait compris
 Tout commence par un baiser.
 Un enfant le voit.
 Des années plus tard, quelqu’un meurt en laissant derrière lui un secret qu’il n’a jamais pu raconter.
-Puis un livre est découvert dans un coffre.
-Un livre qui semble parler d’une famille inconnue. D’un père, d’une mère, de deux fils. D’une maison. D’une guerre ancienne. D’histoires que personne ne semble avoir vécues.
+Puis un livre est découvert dans un coffre.On y parle d’un trésor.
 
-Pourtant, à mesure que les pages se tournent, les liens apparaissent.
+D’une cassette rapatriée.
+D’une expédition de 1837.
+Certains prétendent que le dépôt ne venait pas de 1837.
+Qu’il aurait déjà changé de mains une première fois du temps de la guerre de Sept Ans.
+D’autres murmurent le nom de Pondichéry.
+Personne n’en sait rien.
+
 Ce qui semblait être une histoire devient le fragment d’une autre.
 Ce qui appartenait au passé recommence à agir dans le présent.
 Et derrière les personnages, derrière les générations, derrière les silences, une même histoire cherche obstinément à remonter jusqu’à sa source.
 
 Deux romans. Deux époques. Une seule onde.
-
 
 ### Note sur l'auteur
 Jean-Joseph Lainet
