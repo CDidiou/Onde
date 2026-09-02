@@ -190,7 +190,7 @@ Elle a coupé.
 Elle a transmis.  
 C’est pas pareil.
 
-**Le cadet :**  
+**2J :**  
 Si.  
 C’est exactement pareil.
 

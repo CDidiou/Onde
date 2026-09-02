@@ -8,7 +8,7 @@ weight: 114
 ---
 
 *(Le bureau de poste provisoire. L'endroit est saturé de tampons, de registres municipaux et de télégrammes officiels. Le Major est installé derrière le grand comptoir de bois.
-Sur ce bureau improvisé, l'éternel buste en bronze patiné de Balthasar d’André, dit L'Epicier. L'inscription précise Citoyen d'honneur, illustre enfant du village. Président de l'Assemblée constituante. Le major l'air souverain, trie les laissez-passer et les bordereaux de réquisition. Le Garde Champêtre se tient debout face à lui, le képi à la main. La Sage-Femme entre, son châle sur les épaules, l'œil étincelant.)*
+Sur ce bureau improvisé, l'éternel buste en bronze patiné de Balthasar d’André, dit L'Epicier. L'inscription précise Citoyen d'honneur, illustre enfant du village. Président de l'Assemblée constituante. Le major, l'air souverain, trie les laissez-passer et les bordereaux de réquisition. Le Garde Champêtre se tient debout face à lui, le képi à la main. La Sage-Femme entre, son châle sur les épaules, l'œil étincelant.)*
 
 **La Sage-Femme :** *(s'approchant du bureau, la voix plus basse)*
 Mon major... j'ai besoin d'un laissez-passer pour la ferme de Mathurin. Je dois une visite de contrôle avant la naissance. Je suis inquiète.

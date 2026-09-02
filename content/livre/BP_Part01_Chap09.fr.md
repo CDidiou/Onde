@@ -7,7 +7,7 @@ description: "À la limite du canton, le garde et Mathurin empêchent un coursie
 weight: 111
 ---
 
-*(La limite du canton, matérialisée par un fagot de ronces en travers du chemin et un écriteau à la peinture fraîche : « HALTE SANITAIRE - DEFENSE DE PASSER ». Le Garde Champêtre, le visage rouge de sueur et de fermeté, tient à bout de bras un long fusil sans bretelle qu'il réajuste à chaque instant sous l'aisselle. Assus sur une borne en pierre, un couteau à la main, Mathurin épluche calmement un navet en le regardant faire.)*
+*(La limite du canton, matérialisée par un fagot de ronces en travers du chemin et un écriteau à la peinture fraîche : « HALTE SANITAIRE - DEFENSE DE PASSER ». Le Garde Champêtre, le visage rouge de sueur et de fermeté, tient à bout de bras un long fusil sans bretelle qu'il réajuste à chaque instant sous l'aisselle. Assis sur une borne en pierre, un couteau à la main, Mathurin épluche calmement un navet en le regardant faire.)*
 
 **Le garde champêtre :** *(reculant d'un pas, ajustant son fusil)*
 Je vous dis qu'on ne passe pas ! C’est l’arrêté de la commune ! Les pneus de votre engin touchent le sol du canton, donc l'air de vos poumons touche l'air du canton !

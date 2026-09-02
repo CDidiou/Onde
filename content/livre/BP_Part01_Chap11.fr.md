@@ -29,7 +29,7 @@ Major...
 
 **Le Boiteux :**
 *(la coupant, la voix vibrante d'une rancœur accumulée depuis des années)*
-Mon grand-oncle est parti au Bas-Canada en 1837 ! Il s'est battu aux côtés des patriotes de l'expédition Hindelang ! Des hommes de valeur, pas des peureux comme ceux d'ici ! Quand l'affaire a tourné au vinaigre avec les Anglais, un dépôt de financement — des souscriptions de soutien envoyées par les comités français — a été rapatrié en secret par les réseaux des Rouges et des Noirs ! Une cassette entière confiée aux miens pour être mise à l'abri !
+Mon grand-oncle, André, est parti au Bas-Canada en 1837 ! Il s'est battu aux côtés des patriotes de l'expédition Hindelang ! Des hommes de valeur, pas des peureux comme ceux d'ici ! Quand l'affaire a tourné au vinaigre avec les Anglais, un dépôt de financement — des souscriptions de soutien envoyées par les comités français — a été rapatrié en secret par les réseaux des Rouges et des Noirs ! Une cassette entière confiée aux miens pour être mise à l'abri !
 
 **La Sage-Femme :**
 *(sceptique mais troublée)*
