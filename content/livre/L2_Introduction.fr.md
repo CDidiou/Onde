@@ -7,14 +7,31 @@ description: "Le narrateur présente une famille imaginaire construite pour expl
 weight: 203
 ---
 
-Je n'ai pas construit de famille. J'ai voulu, une fois, et ça ne s'est pas fait — ni tout à fait par ma faute, ni tout à fait par celle de mon amour. Alors j'en ai imaginé une, ici, sur ce papier, faute de mieux. Ce n'est pas la mienne. C'est celle que j'aurais aimé avoir, le temps de rater, puis de réparer.
+Je n’ai pas construit de famille. Je crois que j’ai voulu, une fois. Une seule. Et ça ne s’est pas fait. Je pourrais raconter que ce n’était ni tout à fait ma faute, ni tout à fait celle de mon amour de jeunesse. C’est plus commode comme ça. La vérité, c’est que je l’ai trompée. Après, j’ai fait ce que font les hommes qui ne veulent pas regarder trop longtemps derrière eux : j’ai travaillé, j’ai construit, j’ai cherché autre chose à transmettre.
 
-Tout est parti d'un exercice simple, que je me suis donné un soir sans trop savoir pourquoi : imaginer une conversation avec quelqu'un de sa famille, vivant ou disparu, et lui demander ce qu'on est devenu. Je n'avais personne à qui poser la question pour de vrai. Alors j'ai inventé quatre personnes qui, elles, pouvaient encore se la poser entre elles — un fils face à sa mère, une fille face à son père, deux frères qui remontent leur arbre généalogique, un père et son fils qui retapent une maison que je n'ai jamais eue, une mère et son fils qui trient un grenier que je n'ai jamais rempli. On avance dans ces pages un peu comme j'ai avancé dans ma vie, je crois : on fait, on se cogne, et puis on s'arrête pour comprendre — parfois beaucoup plus longtemps qu'on ne l'aurait voulu — avant de repartir faire encore.
+Alors j’en ai imaginé une, ici, sur le papier, faute de mieux. Une famille qui n’est pas la mienne. Une famille qui aurait le temps de se parler. Le temps de se disputer, de se mentir peut-être, de se rater, puis de revenir s’asseoir à la même table. Une famille qui aurait le temps de demander : d’où est-ce qu’on vient ? Qu’est-ce qu’on nous a laissé ? Et qu’est-ce qu’on est en train de laisser aux autres ?
 
-Je ne prétends expliquer personne, encore moins moi-même. J'ai simplement voulu rendre visible ce que je n'ai jamais vu venir, dans ma propre histoire : comment une blessure vécue par un couple de vieux peut infuser, deux générations plus tard, jusque dans le métier qu'un petit-fils choisit, ou dans la manière dont un fils élève ses propres enfants. Comment on transmet, sans le vouloir, un don et la peur qui va avec, dans le même geste, sans jamais pouvoir les séparer. Comment on peut aussi, une fois, se le dire à voix haute — et que ça change, un peu, la suite. Ça, je ne l'ai pas su faire à temps. L'Histoire, la guerre, ma propre famille, tout est passé si vite. Ce livre est ma tentative d'y voir plus clair.
+Tout est parti d’un exercice assez simple que je me suis donné un soir, sans trop savoir pourquoi : imaginer une conversation avec quelqu’un de sa famille, vivant ou disparu, et lui demander ce qu’on est devenu. Je n’avais personne à qui poser la question pour de vrai. Alors j’en ai inventé quelques-uns. Des gens qui, eux, pouvaient encore se parler. Un fils face à sa mère. Une fille face à son père. Un père et son fils qui retapent une maison. Une mère et son fils qui trient un grenier.
 
-Quatre personnages portent portent l'essentiel du récit : un père et une mère, et leurs deux fils, l'aîné et le cadet, fils que je n'ai jamais eus. Chacun arrive avec une trajectoire qui lui semble sienne, presque une évidence de caractère — le père conciliant, la mère qui commande, l'aîné qui fonce, le cadet qui observe. Mais dialogue après dialogue, j'ai voulu montrer que ces trajectoires sont moins individuelles qu'elles n'en ont l'air : chacune répond à une place laissée vide par une génération d'avant, ou par un frère, ou par une sœur qu'on n'a jamais connue. Les portraits de ces quatre-là, avec leurs forces, leurs fragilités et leurs contradictions, referment ce recueil — suivis d'une dernière réflexion sur ce que cette famille, imaginaire de bout en bout, a fini par comprendre d'elle-même, à ma place.
+Des choses que je n’ai pas eues.
 
-Je n'ai pas de leçon à donner. J'ai eu une vie, une jambe en moins, des lopins de terre, du bois coupé de mes mains, et pas grand-chose d'autre à léguer. Ce livre n'est qu'une manière de regarder de plus près une question que je me suis posée trop tard, seul, dans ma maison où j'ai calculé et construit la charpente, mais où je n'ai personne pour me répondre : qu'est-ce qui, dans une famille, se répète sans qu'on le choisisse — et qu'est-ce qui, malgré tout, ne se répète que parce que personne, avant, n'a pris le temps de le dire à voix haute ?
+On avance dans ces pages un peu comme j’ai avancé dans ma vie, je crois : on fait. On se cogne. On recommence. Et puis, parfois, on s’arrête pour comprendre. Souvent trop tard. J’ai passé ma vie à poursuivre une idée de l’héritage sans même savoir exactement ce que je cherchais. Une sorte d’héritage mythique. Une histoire dont je voulais être le dépositaire, comme s’il y avait quelque part, cachée derrière les choses, une preuve de ce que j’étais venu faire là.
+
+J’ai cherché des pièces d’or. J’ai passé ma vie à chercher des pièces d’or.
+
+Et je crois que ce dont j’avais besoin, c’était de parler avec les miens.
+
+Seulement, les miens, je les ai perdus. Ou peut-être que je ne les ai jamais vraiment eus. J’ai eu toute une vie pour le comprendre. Une jambe en moins. Des lopins de terre. Du bois coupé de mes mains. Une maison dont j’ai calculé et construit la charpente. J’ai travaillé. J’ai accumulé. J’ai transmis une maison, oui. Mais pas d’histoire.
+
+Je n’ai pas de leçon à donner. Je regarde simplement, maintenant, ce que j’ai fait de tout ce temps. Ce que j’ai reçu sans le savoir. Ce que j’ai reproduit sans le vouloir. Les silences, les gestes, les colères, les façons de partir, celles de ne jamais demander pardon. Tout ce qu’une génération laisse à la suivante sans même penser à le lui donner.
+
+C’est peut-être pour ça que j’ai eu besoin d’inventer cette famille. Pour lui donner ce que je n’ai pas su donner à la mienne : du temps pour parler. Pour voir ce qui se transmet. Ce qui se perd. Ce qu’on croit avoir choisi alors qu’on ne fait que recommencer.
+
+Et maintenant que je regarde derrière moi, dans cette maison que j’ai bâtie mais où personne ne me répond, je me pose enfin la question que j’aurais peut-être dû poser beaucoup plus tôt :
+
+Qu’est-ce qu’on répète sans l’avoir choisi ?
+
+Et qu’est-ce qui, malgré tout, ne se répète que parce que personne, avant nous, n’a pris le temps de le dire à voix haute ?
+
 
 ---

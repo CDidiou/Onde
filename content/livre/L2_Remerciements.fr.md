@@ -8,17 +8,29 @@ weight: 201
 # La Charpente (Roman du cycle de Bernardy-Lilaz)
 
 ## Note sur l'auteur
-Joseph de Bernardy-Lilaz
+Joseph de Bernardy-Lilaz, dit Degis
 ![Photo de l'auteur](/La-Charpente/images/JosephWw1.png)
 
 
-Né en 1896 dans un hameau qu'aucune carte ne prenait la peine de nommer en entier, cadet d'une fratrie trop nombreuse pour la terre qui devait la nourrir, il quitte la France à quinze ans avec, pour tout bagage, la certitude qu'il n'y avait rien à y attendre. Le Québec l'accueille sans le retenir vraiment — quelques hivers à bûcheronner dans des forêts plus grandes que tout ce qu'il avait connu, des lettres qu'il n'envoie presque jamais.
+Né en 1896 dans un hameau qu’aucune carte ne prenait la peine de nommer en entier, dernier d’une fratrie trop nombreuse pour la terre qui devait la nourrir, il quitte la France à quinze ans pour le Québec. Il y passe quelques années à bûcheronner, dans des forêts plus grandes que tout ce qu’il avait connu, avant de rentrer en 1916.
 
-Il rentre en 1916, pour des raisons qu'il n'explique à personne, et se retrouve dans la Somme quelques mois plus tard. Il y laisse une jambe et, dit-on, une partie de sa capacité à espérer que les choses s'arrangent d'elles-mêmes. À son retour au pays, sa famille ne l'attend pas vraiment : elle est occupée à se déchirer pour des raisons de bornage, d'héritage, de vieilles rancunes que personne ne sait plus raconter dans l'ordre. Il regarde ses cousins se faire la guerre, à leur tour, sans comprendre — lui qui revient d'une vraie guerre — ce qui peut bien valoir qu'on se batte encore, entre soi, pour un mur ou un chemin.
+Quelques mois plus tard, la Somme lui prend une jambe.
 
-Il ne trouve pas sa place, alors il s'en fabrique une ailleurs : il achète des parcelles de forêt que personne ne veut, revend le bois qu'il coupe lui-même, clopin-clopant, avec une jambe de moins et une obstination que personne ne lui connaissait avant. Il aime une femme du village, une seule, qui l'aime aussi, mais dont le tempérament — trop de feu pour son silence à lui — finit par les séparer sans qu'aucun des deux ne le décide vraiment. Il ne se remariera pas. Il ne réclamera jamais rien à personne.
+À son retour, il comprend qu’il n’a plus grand-chose à retrouver. Alors il cherche. D’abord une place, puis des terres, puis des traces. Il se met à fouiller les papiers, les souvenirs, les histoires à demi racontées. Il veut savoir ce qui était là avant lui, ce qui lui appartient, ce qu’il pourrait à son tour laisser derrière lui. À force de chercher, il finit par se raconter qu’il existe quelque part un héritage plus ancien, plus grand, presque légendaire. Un trésor. Des pièces d’or, peut-être.
 
-Il n'écrira qu'un seul livre, tard, presque en cachette, sur les blessures familiales cachées, tout en ellipse sur sa propre histoire — quatre personnages qui n'arrivent pas à se dire l'essentiel, et une charpente, dans le titre, qu'on ne voit jamais mais qui tient tout debout quand même. Le livre ne trouve ni éditeur empressé ni lecteur fidèle. Il meurt sans savoir qu'un siècle plus tard, quelqu'un le retrouverait dans un grenier, le lirait d'une traite, et déciderait qu'il méritait, enfin, d'être lu par plus d'une personne à la fois.
+Il passe sa vie à les chercher.
+
+Il achète des morceaux de forêt dont personne ne veut, coupe son bois de ses propres mains, bâtit une maison. Il avance avec une jambe en moins et l’obstination de ceux qui ont décidé de ne rien devoir au hasard. Il accumule ce qui peut l’être. Il construit ce qui peut tenir debout.
+
+Mais une maison n’est pas une histoire.
+
+Tard, presque à la fin, il écrit un seul livre. Quatre personnages y cherchent ce qu’on reçoit des morts, ce qu’on transmet aux vivants, ce qu’on répète sans même savoir pourquoi. Ils parlent autour de l’essentiel, comme parlent les familles quand elles ont trop attendu.
+
+Le livre ne trouve ni éditeur ni lecteurs.
+
+Il meurt avec sa maison, ses terres et ses pièces d’or — si elles ont jamais existé.
+
+Un siècle plus tard, quelqu’un retrouvera son livre dans un grenier. Et peut-être comprendra-t-il alors ce que lui-même avait mis toute une vie à comprendre : il ne cherchait pas un trésor. Il cherchait une histoire.
 
 
 ## L'ouvrage
