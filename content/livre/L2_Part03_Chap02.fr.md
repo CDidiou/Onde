@@ -11,7 +11,7 @@ Le bureau des admissions sent le désinfectant et le café de machine. Une femme
 
 **L'employée :** Nom du patient.
 
-**Le fils aîné :** Il est déjà dans le dossier. On vient juste pour la procuration.
+**Le fils aîné :** Chambre 1761. Il est déjà dans le dossier. On vient juste pour la procuration.
 
 **L'employée :** *(sans se démonter)* Nom, prénom, lien de parenté. Pour chacun des deux signataires.
 
@@ -41,7 +41,7 @@ Ils sortent avec les papiers pliés en quatre dans la poche de l'aîné. L'ascen
 
 **Le fils cadet :** T'entendre dire ton prénom à voix haute. Je crois que je l'ai jamais dit, moi. *(Un temps.)* Pour moi, t'es Tazar, c'est tout. Tazar qui fait jamais rien au hasard.
 
-**Le fils aîné :** *(un sourire de travers)* Jean-Joseph. Sérieux, ton prénom. Deux J. Pour moi, t'es et tu seras toujours 2J. Le roi du double jeu.
+**Le fils aîné :** *(un sourire de travers)* Jean-Joseph. Sérieux, ton prénom. Deux J. Pour moi, t'es et tu seras toujours 2J. Le roi du double je.
 
 **Le fils cadet :** Très drôle.
 

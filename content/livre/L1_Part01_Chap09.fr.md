@@ -13,7 +13,7 @@ weight: 111
 Je vous dis qu'on ne passe pas ! C’est l’arrêté de la commune ! Les pneus de votre engin touchent le sol du canton, donc l'air de vos poumons touche l'air du canton !
 
 **Le coursier :** *(en capote de cuir, piétinant devant sa bicyclette chargée de sacoches, l'air ahuri)*
-Mais je suis le messager volant de la Sous-Préfecture ! J’ai quatre dépêches urgentes pour le maire, deux circulaires sur la graisse à cuir et un pli pour le receveur ! Vous ne m'empêcherez pas de faire ma tournée ! Nous dénombrons déjà 342 morts de la grippe sur tout le canton, l'heure n'est plus à la rigolade, mon vieux !
+Mais je suis le messager volant de la Sous-Préfecture ! J’ai quatre dépêches urgentes pour le maire, deux circulaires sur la graisse à cuir et un pli pour le receveur ! Vous ne m'empêcherez pas de faire ma tournée ! Nous dénombrons déjà 1761 morts de la grippe sur tout le canton, l'heure n'est plus à la rigolade, mon vieux !
 
 **Le garde champêtre :**
 L'arrêté est très clair ! « Nul ne pénètre avec de la fièvre ou du courrier provenant d'une zone contaminée. » La ville est contaminée. Vous venez de la ville. Donc vous êtes un vecteur !

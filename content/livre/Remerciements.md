@@ -103,3 +103,8 @@ Je regarde le passé et ses mystères me font sourire. Peut-être parce qu’ils
 
 Mais je n’ai plus le temps.
 Il faut que je rénove une maison d’enfance.
+
+## Remerciements
+
+A mes enfants. Et à ceux qui viendront après.
+Pour votre harmonie.
