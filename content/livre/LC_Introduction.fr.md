@@ -27,6 +27,7 @@ Je n’ai pas de leçon à donner. Je regarde simplement, maintenant, ce que j�
 
 C’est peut-être pour ça que j’ai eu besoin d’inventer cette famille. Pour lui donner ce que je n’ai pas su donner à la mienne : du temps pour parler. Pour voir ce qui se transmet. Ce qui se perd. Ce qu’on croit avoir choisi alors qu’on ne fait que recommencer.
 
+J'ai survécu, par miracle, à la Grande Guerre et, plus miraculeusement encore, à la grippe espagnole.
 Et maintenant que je regarde derrière moi, dans cette maison que j’ai bâtie mais où personne ne me répond, je me pose enfin la question que j’aurais peut-être dû poser beaucoup plus tôt :
 
 Qu’est-ce qu’on répète sans l’avoir choisi ?

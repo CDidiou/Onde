@@ -19,7 +19,7 @@ weight: 202
 
 ## La mère
 
-**Ce qu'elle porte bien.** Une force de décision qui a fait tenir un couple, une carrière, deux fils, et probablement la moitié des gens qu'elle a croisés dans sa vie. Elle sait faire naître du lien vite, fort, avec une intensité rare — dans une salle de classe, dans un couloir de maison de retraite, dans une équipe. Elle a aussi, ce qui est plus rare encore, la capacité de se remettre en question publiquement, devant ses propres enfants, sans que ça l'écrase : elle peut entendre "tu as pris le savoir, pas le courage" sans se défendre, et le retourner en clarté plutôt qu'en blessure.
+**Ce qu'elle porte bien.** Une force de décision qui a fait tenir un couple, une carrière, deux fils, et probablement la moitié des gens qu'elle a croisés dans sa vie. Elle sait faire naître du lien vite, fort, avec une intensité rare — dans une salle de classe, dans un couloir de maison de retraite, dans une équipe. Elle a aussi, ce qui est plus rare encore, la capacité de se remettre en question publiquement, devant ses propres enfants, sans que ça l'écrase : elle peut entendre "tu m’as donné les clés d’une maison, et interdit d’en ouvrir la porte" sans se défendre, et le retourner en clarté plutôt qu'en blessure.
 
 **Ce qui la fragilise.** Sa force elle-même, retournée contre elle : elle a du mal à laisser de la place sans même s'en rendre compte, à décider pour les autres alors qu'elle croit les protéger. Elle ouvre les liens avec une facilité déconcertante, mais toujours du même côté de la balance — celui qui soigne, jamais celui qui pourrait redevenir un enjeu, ou pire, être laissé en décalage.
 

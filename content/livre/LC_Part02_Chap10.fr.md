@@ -40,21 +40,47 @@ Viens voir.
 Y avait un mur, là, avant. Pas de fenêtre.
 
 **Le père :**
-Ouais. L'aîné a fait sauter le mur porteur. On l'a enlevé tous les deux, cette cloison, lui et moi. Nous voulions de la lumière. Et ça n'a pas trainé, tu le connais, il a toujours voulu que les choses avancent plus vite que ce qu'elles étaient.
+Oui. L'aîné a fait sauter le mur porteur. On l'a enlevé tous les deux, cette cloison, lui et moi. Nous voulions de la lumière. Et ça n'a pas trainé, tu le connais, il a toujours voulu que les choses avancent plus vite que ce qu'elles étaient.
 
-*(Ils reviennent à la cuisine, s'assoient un moment, un café entre eux. La sœur regarde au loin, silencieuse un instant.)*
+*(Ils redescendent. Au palier, un escalier plus étroit continue vers le grenier. La sœur s'arrête devant, la main sur la rampe, sans monter.)*
 
 **La sœur :**
-Tu te souviens de papa, le matin, avant de partir. Il restait des heures là, à rien dire, juste content qu'on soit tous là.
+Et là-haut ? Vous avez touché au grenier aussi ?
 
 **Le père :**
-Et maman qui s'activait pour que tout soit prêt, le café chaud, les tartines prêtes.
+Non. On a juste refait la charpente, l'isolation. Le reste, on l'a laissé.
+
+**La sœur :**
+Le vieux coffre est encore là ?
+
+**Le père :** *(un temps, la main sur la rampe à son tour, sans monter davantage)*
+Il doit y être, oui. Personne n'a eu le cœur de le vider vraiment.
+
+**La sœur :**
+Tu te souviens, la dernière fois qu'on est montés là-haut, tous les deux, petits ?
+
+**Le père :** *(la voix un peu plus basse, presque malgré lui)*
+Je préfère pas trop y penser, à celle-là.
+
+**La sœur :** *(le regardant, surprise par le ton)*
+Je te parlais juste du coffre.
+
+**Le père :** *(esquissant un sourire trop rapide, redescendant déjà une marche)*
+Je sais. Viens, le café va être froid.
+
+*(Il redescend sans se retourner. La sœur reste un instant seule devant l'escalier, la main encore sur la rampe, le regard levé vers l'obscurité du grenier — puis elle finit par le suivre, sans poser d'autre question. A la cuisine. Un café entre eux.)*
+
+**La sœur :**
+Et papa, le matin, avant de partir ! Il restait des heures là, à rien dire, juste content qu'on soit tous là.
+
+**Le père :**
+Oui ! Et maman, elle, s'activait pour que tout soit prêt. Le café bien chaud et les tartines prêtes.
 
 **La sœur :**
 Ca me semble si loin.
 
 **Le père :**
-Et toi et moi, tu te souviens. On était différents déjà.
+Et toi et moi, tu te souviens ? On était différents déjà !
 
 *(Elle rit, un petit rire sec.)*
 
@@ -62,7 +88,7 @@ Et toi et moi, tu te souviens. On était différents déjà.
 C'est marrant que tu dises ça. Je pensais justement à un truc, en venant ici. Tes deux fils. L'aîné qui fonce, qui casse des murs. Le cadet qui observe, qui réfléchit.
 
 **Le père :**
-Ouais.
+Oui, et bien ?
 
 **La sœur :**
 Je me suis reconnue là-dedans. Nous deux, avant. Toi le costaud content de vivre qui n'a jamais eu peur de rien. Moi l'intello qui est partie vite, une chance à saisir. J'ai pris du recul, j'ai pu respirer.

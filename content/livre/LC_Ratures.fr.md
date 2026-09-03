@@ -4,7 +4,7 @@ subtitle: "Ça débordait déjà"
 date: 2026-08-17
 version: 1.0
 description: "Quand on découvre la version du frère aîné, après relecture."
-weight: 232
+weight: 234
 ---
  
 *(Écrit à même la dernière page du livre, d’une écriture vive, au stylo bleu.)*

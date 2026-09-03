@@ -30,9 +30,9 @@ Joseph, tu vas comprendre dans ta confession posthume ce que tu aurais dû compr
 
 ---
 
-*(Trois jours plus tard. La lumière crue et froide du matin traverse la lucarne du grenier. La porte retentit d'un coup de pied sec et s'ouvre à la volée. Le petit enfant du charpentier entre en bondissant, tenant un manche à balai à la main. Il s'arrête net en apercevant la vieille femme immobile sur sa chaise, la tête penchée à côté du coffre fermé.)*
+*(Trois jours plus tard. La lumière crue et froide du matin traverse la lucarne du grenier. Des bruits d'enfants qui se chamaillent. La porte retentit d'un coup de pied sec et s'ouvre à la volée. Le petit du charpentier entre en bondissant, tenant un manche à balai à la main. Sa grande soeur, prudente, reste sur le pas de la porte. Le petit s'approche doucement de la vieille femme immobile sur sa chaise, la tête penchée à côté du coffre fermé.)*
 
-**Le petit-fils du charpentier :** *(s'approchant à pas prudents, la pointant du bout de son bois, puis poussant un grand cri perçant qui résonne sous les tuiles)*
+**Le petit-fils du charpentier :** *(à pas prudents, la pointant du bout de son bois, puis poussant un grand cri perçant qui résonne sous les tuiles)*
 Elle est enfin morte la vieille ! Papa ! Papa, viens vite ! Tu vas être content !
 
-*(Le gamin fait demi-tour en courant et en riant sur les marches de l'escalier, laissant le corps sans vie de la sage-femme reposer à côté du coffre.)*
+*(Les gamins font demi-tour en courant et en riant sur les marches de l'escalier, laissant le corps sans vie de la sage-femme reposer à côté du coffre.)*
