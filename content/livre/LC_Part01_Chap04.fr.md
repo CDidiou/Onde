@@ -89,7 +89,7 @@ Tout le temps. Je n'avais pas ton énergie de bâtisseur, je n'avais pas non plu
 Tu m'as donné plus que tu ne crois.
 
 **Le père :**
-Être père, je crois, ce n'est pas transmettre ce qu'on a de solide. C'est transmettre l'endroit où revenir quand ça tremble. Ton grand-père avait cet établi. Moi j'ai eu cette table, où tout le monde se réunissait. Regarde ce graffiti, là sur le côté. MZ et JBL dans un coeur. Je l'ai toujours vu là ce graffiti, immuable. Mes parents riaient en me racontant que, jeunes, ils s'appelaient entre eux le Menuisier Zamoureux de la Jolie Brune Légendaire. Tu vois, j'y tiens à ce graffiti. Et toi, qu'est-ce que tu leur donnes, à tes fils, comme endroit où revenir ?
+Être père, je crois, ce n'est pas transmettre ce qu'on a de solide. C'est transmettre l'endroit où revenir quand ça tremble. Ton grand-père avait cet établi. Moi j'ai eu cette table, où tout le monde se réunissait. Regarde ce graffiti, là sur le côté. MZ et JBL dans un cœur. Je l'ai toujours vu là ce graffiti, immuable. Mes parents riaient en me racontant que, jeunes, ils s'appelaient entre eux le Menuisier Zamoureux de la Jolie Brune Légendaire. Tu vois, j'y tiens à ce graffiti. Et toi, qu'est-ce que tu leur donnes, à tes fils, comme endroit où revenir ?
 
 **Le fils aîné :**
 Je ne sais pas encore. Je crois que je leur ai surtout donné un cap, une direction à suivre. Pas forcément un endroit où se poser.
@@ -101,7 +101,7 @@ Ce n'est pas trop tard pour ajouter l'endroit.
 Tu penses à quoi ?
 
 **Le père :**
-À ça, justement. Ma maison d'enfance, celle que j'ai héritée avec ma soeur. Si on la retape ensemble, toi et moi, peut-être qu'elle deviendra un lieu où tes fils pourront venir, sans avoir besoin de foncer ni de comprendre quoi que ce soit avant d'y entrer. Juste un endroit qui les attend.
+À ça, justement. Ma maison d'enfance, celle que j'ai héritée avec ma sœur. Si on la retape ensemble, toi et moi, peut-être qu'elle deviendra un lieu où tes fils pourront venir, sans avoir besoin de foncer ni de comprendre quoi que ce soit avant d'y entrer. Juste un endroit qui les attend.
 
 **Le fils aîné :**
 Un établi sous une fenêtre. Le refuge de l'artisan.

@@ -149,4 +149,4 @@ Oh ! Tu vas arrêter de tourner en rond avec ce café ? Ça fait dix minutes que
 *(L’aîné reste muet, sa tasse à la main, totalement pris de court. Sur le côté, le cadet esquisse son petit sourire d'analyste, prêt à placer une remarque bien sentie sur la résilience silencieuse)*
 
 **La gouvernante :**
-Et l'autre qui rigole ! Et, tu n'entends pas qu'il n'y a plus de musique depuis tout à l'heure ! Bon sang, on s'ennuie ici ! Il nous passe des morceaux larmoyants, et en plus quand le morceau se termine, nada, personne ne bouge ! Allez, ne vous inquietez pas, je m'en occupe, ça va swinguer !
+Et l'autre qui rigole ! Et, tu n'entends pas qu'il n'y a plus de musique depuis tout à l'heure ! Bon sang, on s'ennuie ici ! Il nous passe des morceaux larmoyants, et en plus quand le morceau se termine, nada, personne ne bouge ! Allez, ne vous inquiétez pas, je m'en occupe, ça va swinguer !

@@ -119,7 +119,7 @@ On n'a pas besoin d'attendre d'être servis ! On peut se l'offrir, nous-mêmes, 
 Tu as une idée derrière la tête, toi, en disant ça.
 
 **Le fils cadet :**
-J'y pense depuis que tu as parlé de retaper ta maison d'enfance. Comme d'un projet de famille. De transmission. Ton geste d'autorité. Ca m'a plu. Et ça mérite un vrai lancement, quelque chose qui marque le coup autrement qu'un contrat à signer ou un premier coup de marteau.
+J'y pense depuis que tu as parlé de retaper ta maison d'enfance. Comme d'un projet de famille. De transmission. Ton geste d'autorité. Ça m'a plu. Et ça mérite un vrai lancement, quelque chose qui marque le coup autrement qu'un contrat à signer ou un premier coup de marteau.
 
 **Le père :**
 Continue.

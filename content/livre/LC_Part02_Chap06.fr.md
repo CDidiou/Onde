@@ -52,7 +52,7 @@ Je crois que t'as jamais testé, pour vérifier si ça s'écroule sans tes dons.
 C'est étrange de juste regarder.
 
 **Le fils cadet :**
-Ecoutons le bruit des liens. Tu sais si bien faire. Mais écoutons tout. Pas ce qui semble manquer. Juste ce qu'il y a.
+Écoutons le bruit des liens. Tu sais si bien faire. Mais écoutons tout. Pas ce qui semble manquer. Juste ce qu'il y a.
 
 *(Le père reste silencieux, regarde vraiment, cette fois : son copain qui dort, le couple regarde les enfants au sol, le cadet à côté de lui.)*
 

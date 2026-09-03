@@ -56,7 +56,7 @@ Est-ce que tu trouves ta place, au milieu de tout ce monde-là ?
 Oui, maman, j'ai fini par la trouver. Je ne suis pas celui qui bâtit les empires. Mais je suis celui qui montre le geste, trace vraiment le plan, tient la maison chaude, celui qui les réunit encore autour d'un bon repas, celui qui leur rappelle qu'au-delà des réussites et des projets, il y a une famille qui s'aime. Je suis peut-être parfois battu en stratégie, ou en action, mais je préfère les laisser gagner et ne pas vraiment savoir, ce n'est pas ça qui m'intéresse.
 
 **Ma mère :**
-Et notre maison, qu'est-ce que tu en as fait avec ta soeur ?
+Et notre maison, qu'est-ce que tu en as fait avec ta sœur ?
 
 **Moi :**
 Justement. Tu te souviens de ce vieux livre, maman ? Celui qu’on avait trouvé dans le vieux coffre du grenier, quand j’étais petit. Tu me le lisais le soir, parfois. On ne savait jamais s’il venait d’un de nos aïeux ou des gens qui habitaient la maison avant nous. Un homme qui parlait de charpente, de famille, de guerre... Ça n’avait pas grand sens. On souriait. Ça faisait un peu légende.

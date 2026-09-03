@@ -1,5 +1,5 @@
 ---
-title: "(La Charpente) Les ratures du frère ainé"
+title: "(La Charpente) Les ratures du frère aîné"
 subtitle: "Ça débordait déjà"
 date: 2026-08-17
 version: 1.0

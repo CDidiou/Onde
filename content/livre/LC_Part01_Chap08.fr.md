@@ -141,18 +141,18 @@ Je fais ce que je peux.
 *(Elle reste quelques instants à discuter avec lui. Les deux frères attendent à quelques pas.)*
 
 **Le fils aîné :** *(à son frère)*
-Heureusement qu'on n'a pas amené à mamie un gateau glacé, il aurait fondu !
+Heureusement qu'on n'a pas amené à mamie un gâteau glacé, il aurait fondu !
 
 *(La directrice de l'établissement rejoint la mère et le résident. La conversation se prolonge. Les deux fils restent à l'écart.)*
 
 **Le fils cadet :**
-C'est quoi ce gateau, d'ailleurs ?
+C'est quoi ce gâteau, d'ailleurs ?
 
 *(La mère revient vers eux.)*
 
 **La mère :**
 Bon, vous venez ? Votre grand-mère va finir par croire que je vous ai perdus.
-Et c'est un flan, que j'ai fait ce matin. En suivant scrupuleusement la recette de ta grand-mère. Je la faisais avec elle à la ferme quand j'étais petite. Et pas avec des oeufs ou du lait d'élevage industriel !
+Et c'est un flan, que j'ai fait ce matin. En suivant scrupuleusement la recette de ta grand-mère. Je la faisais avec elle à la ferme quand j'étais petite. Et pas avec des œufs ou du lait d'élevage industriel !
 
 *(Ils arrivent devant le petit salon.)*
 

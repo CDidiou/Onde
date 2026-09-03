@@ -31,13 +31,13 @@ Alors je me lance. Tu sais que ma mère avait une sœur aînée, morte bien avan
 Ça, je le sais depuis toujours!
 
 **La mère :**
-Ce que je ne t'ai peut-être jamais vraiment dit, c'est ce que ça avait représenté pour elle, petite, d'avoir une sœur aînée. Dans une famille pauvre, à l'époque, on ne pouvait pas nourrir deux bouches de la même façon. Sa soeur a eu la priorité, presque automatiquement, sans que personne ne le dise jamais à voix haute. Ma mère a grandi seconde. Pas rejetée. Juste seconde.
+Ce que je ne t'ai peut-être jamais vraiment dit, c'est ce que ça avait représenté pour elle, petite, d'avoir une sœur aînée. Dans une famille pauvre, à l'époque, on ne pouvait pas nourrir deux bouches de la même façon. Sa sœur a eu la priorité, presque automatiquement, sans que personne ne le dise jamais à voix haute. Ma mère a grandi seconde. Pas rejetée. Juste seconde.
 
 **Le père :**
 Et tu crois que j'ai grandi où? Ça, tu me l'avais raconté, il y a longtemps. Ce que je n'avais pas compris, c'est à quel point ça pesait encore, chez toi, quand tout s'est joué au moment de la succession.
 
 **La mère :**
-Voilà. C'est là que ça a basculé. Sa soeur était déjà morte depuis longtemps. Restaient mon cousin et ma cousine, à gérer la succession avec ma mère. Mon cousin était loin, et détaché de tout ça. Mais ma cousine, elle, elle a rouvert quelque chose sans le vouloir.
+Voilà. C'est là que ça a basculé. Sa sœur était déjà morte depuis longtemps. Restaient mon cousin et ma cousine, à gérer la succession avec ma mère. Mon cousin était loin, et détaché de tout ça. Mais ma cousine, elle, elle a rouvert quelque chose sans le vouloir.
 
 **Le père :**
 Ça, je le sais. Je dirai même qu'elle avait vécu la même place que ta mère, mais une génération plus tard.
@@ -118,7 +118,7 @@ Alors autant les appeler tous les deux. Ta cousine et ton cousin.
 Tous les deux ?
 
 **Le père :**
-Oui. Si on ne rappelle que ton cousin, on continue à faire le tri que tu regrettais tout à l'heure, mais dans l'autre sens. On resterait coincés en train de juger. Qui sait maitriser ses blessures se leurre.
+Oui. Si on ne rappelle que ton cousin, on continue à faire le tri que tu regrettais tout à l'heure, mais dans l'autre sens. On resterait coincés en train de juger. Qui sait maîtriser ses blessures se leurre.
 
 **La mère :**
 De générations en générations, le même mécanisme. A chaque fois avec la meilleure volonté du monde, et personne pour l'arrêter net.

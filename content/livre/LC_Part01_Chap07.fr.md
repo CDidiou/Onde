@@ -92,7 +92,7 @@ Encore debout. Toutes les deux. Avec un sacré paquet de choses derrière nous.
 *(La mère finit le pilulier, referme la dernière case avec un petit clic.)*
 
 **La grand-mère :**
-Tiens, en parlant de choses derrière nous. Les enfants de ma soeur, un jour, il faudra que tu les rappelles.
+Tiens, en parlant de choses derrière nous. Les enfants de ma sœur, un jour, il faudra que tu les rappelles.
 
 **La mère :**
 On en reparlera.

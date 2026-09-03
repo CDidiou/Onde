@@ -25,7 +25,7 @@ Tu as changé l'emplacement de l'escalier.
 Je préfère qu'il donne sur la cuisine plutôt que sur l'entrée.
 
 ***Le fils cadet :**
-L'oeil de ceux du métier.
+L'œil de ceux du métier.
 
 *(Ils s'installent. Le père sert, remplit les verres, pousse le plat vers chacun.)*
 
@@ -45,7 +45,7 @@ Oui, ils t'ont fait un joli cadeau. Maist moi, dans tout ça... Ils m'ont oubli�
 Ah ! Tu veux un cadeau aussi, tiens ! Comme tu es assis, je suis prêt pour un grand discours. 
 
 **Le père :** *il lui tend un verre de rosé*
-Ca ne m'étonne pas de toi. Tiens, prends un verre et commence ton annonce. Je t'écoute, mais ne sois pas trop long, on a tous soif !
+Ça ne m'étonne pas de toi. Tiens, prends un verre et commence ton annonce. Je t'écoute, mais ne sois pas trop long, on a tous soif !
 
 ***Le fils cadet :**
 Je vais donc être bref. Papa, toi, tu ne cours jamais après rien. Tu es toujours déjà là, en train de préparer, d'anticiper, de tenir les fils. Maman fait des étincelles. Toi tu fais que ça tienne.
@@ -132,7 +132,7 @@ Je pense à ta maison d'enfance, papa.
 
 **Le père :**
 Exactement. Tout le monde parle du projet, de l'idée, du symbole. Moi j'ai déjà les plans. Et je vais appeler un artisan.
-Oui un artisan. Parce que j'ai donné. Je ne me relance pas avec ta mère dans des travaux. Ca suffit. On va passer par des artisans.
+Oui un artisan. Parce que j'ai donné. Je ne me relance pas avec ta mère dans des travaux. Ça suffit. On va passer par des artisans.
 Et la facture, c'est pour vous, les petits. Vous aurez les loyers, vous vous débrouillez!
 
 **Le fils aîné :**
@@ -142,7 +142,7 @@ Bien dit, papa, on fonce! Je suis prêt, moi!
 Oui. On avance. On a une charpente à commencer. On commence par le toit, car l'histoire a commencé par la charpente! 
 
 **La mère :**
-On trinque, alors ? Une parenthèse se ferme. Ca veut dire qu'une parenthèse s'ouvre!
+On trinque, alors ? Une parenthèse se ferme. Ça veut dire qu'une parenthèse s'ouvre!
 
 **Le père :**
 A ma maison! Qui va enfin tenir debout, avec un nouvel escalier, qui donne où il faut.

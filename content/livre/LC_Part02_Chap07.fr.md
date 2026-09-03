@@ -92,7 +92,7 @@ Tu me donnes des leçons, maintenant.
 **Le fils aîné :**
 Je te rends un truc que tu m'as donné. C'est pas pareil.
 
-*(Elle sourit, reprend le sécateur, taille encore, sans se retourner vers la maison. Le silence qui suit est different — plus dense, plus tranquille.)*
+*(Elle sourit, reprend le sécateur, taille encore, sans se retourner vers la maison. Le silence qui suit est différent — plus dense, plus tranquille.)*
 
 **La mère :**
 Ton père va pas savoir ranger ce barbecue tout seul, remarque.

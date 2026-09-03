@@ -112,7 +112,7 @@ J’ai tout rassemblé.
 Les codes d’accès. Les procurations que j’avais encore. Les derniers relevés. Le nom du notaire. Celui de l’assureur. Les numéros des médecins. Ce que j’ai pu récupérer sur les dettes de ta société.  
 Tout est là. Vous n’aurez rien à chercher.
 
-*(L’aîné se penche, feuillete rapidement. Le cadet ne bouge pas.)*
+*(L’aîné se penche, feuillette rapidement. Le cadet ne bouge pas.)*
 
 **2J :**
 Tu as fait ça toute seule.
@@ -141,7 +141,7 @@ Vous n’avez plus besoin de moi.
 Tout est dans le classeur. Vous avez les papiers, vous avez les clés, vous avez les numéros.  
 C’est à vous maintenant.
 
-*(Elle se leve.)*
+*(Elle se lève.)*
 
 **2J :**
 Tu ne peux pas juste…

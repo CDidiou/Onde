@@ -22,7 +22,7 @@ Marie-Zéphyrine de Bernardy-Lilaz orchestre un jeu de miroirs fascinant. Derri�
 
 Rosine Cucurrou, connue sous le nom de plume de Marie-Zéphyrine de Bernardy-Lilaz, demeure une figure énigmatique et fascinante de la littérature rurale de l'entre-deux-guerres. Trente années durant, elle a arpenté les chemins boueux du canton, soigné les fièvres, pansé les corps et accompagné les naissances sous le choc de la Grande Guerre et de l'épidémie de 1918-1920.
 Puis, peu à peu, étouffée par le silence des hommes, le poids des drames et la démission de ceux qui auraient dû porter le monde avec elle, elle s'est murée dans le silence de sa grande maison de pierre à la charpente en chêne massif, vivant en recluse jusqu'à son dernier souffle.
-Dans ce qui s'apparente à son seul roman connu, Rosine pose un regard émouvant sur l'humanité, l'amour et la rigidité des rôles sociaux, qui bloquent le coeur des hommes.
+Dans ce qui s'apparente à son seul roman connu, Rosine pose un regard émouvant sur l'humanité, l'amour et la rigidité des rôles sociaux, qui bloquent le cœur des hommes.
 
 ## Remerciements
 

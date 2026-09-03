@@ -46,4 +46,4 @@ Mais je m'en fous, moi, de ton bric-à-brac ! C'est pas comme la gniole, ça oui
 Ouh, toi, tu les aimes, les prunes ! Ça, je le comprends !
 
 **Le Garde Champêtre :** *(ajustant sa veste de son bras valide avec fierté)*
-Faut bien que tout le monde s'arrrange. Allez, tu vas voir, on va te l'organiser dans les règles, ce confinement.
+Faut bien que tout le monde s'arrange. Allez, tu vas voir, on va te l'organiser dans les règles, ce confinement.

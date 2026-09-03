@@ -80,7 +80,7 @@ Et moi je suis pas QUE la table.
 Vous êtes en train de vous moquer de mon livre.
 
 **Le père :**
-Un prété, un rendu, mon fiston.
+Un prêté, un rendu, mon fiston.
 
 **La mère :**
 On le fait gentiment. Il est très bien ton livre.
@@ -97,10 +97,10 @@ Je plaide coupable.
 Sentence. Va me chercher un stylo. Je vais te corriger direct ton truc, rayer à droite et à gauche, et te redresser la direction globale que notoirement tu ne sais pas tenir !
 
 **La mère :**
-Moi aussi, tiens. Je veux bien écrire quelques commentaires dans la marge. Je suis pas qu'une soi-disante lionne. J'ai déjà repéré quelques erreurs.
+Moi aussi, tiens. Je veux bien écrire quelques commentaires dans la marge. Je suis pas qu'une soi-disant lionne. J'ai déjà repéré quelques erreurs.
 
 **Le père :**
-Et moi je veux juste écrire en bas de la page que je ne tiens pas la table, mais je suis juste bien assis devant ! Ca c'est d'accord, à condition qu'il y ait des verres dessus, évidemment !
+Et moi je veux juste écrire en bas de la page que je ne tiens pas la table, mais je suis juste bien assis devant ! Ça c'est d'accord, à condition qu'il y ait des verres dessus, évidemment !
 
 *(Le fils cadet se lève, va fouiller en grommelant dans le tiroir du buffet, revient avec trois carnets et un pot de stylos dépareillé, pose le tout sur la table. La mère et l'aîné les prennent comme si c'était déjà décidé. Le père rouvre le livre pour relire un passage)*
 
@@ -140,6 +140,6 @@ Rien, rien. Tu dois avoir raison pour le chantier.
 Pourquoi vous avez cette tête, tous les deux ?
 
 **La mère :**
-Aucune tête. Concetre-toi sur la cuisson de ton steak !
+Aucune tête. Concentre-toi sur la cuisson de ton steak !
 
 *(Il hausse les épaules. Le père et la mère se regardent une seconde de plus, et se mettent à sourire, un sourire qu'ils gardent pour eux, sans un mot de plus.)*

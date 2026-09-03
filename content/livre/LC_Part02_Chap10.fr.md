@@ -40,7 +40,7 @@ Viens voir.
 Y avait un mur, là, avant. Pas de fenêtre.
 
 **Le père :**
-Oui. L'aîné a fait sauter le mur porteur. On l'a enlevé tous les deux, cette cloison, lui et moi. Nous voulions de la lumière. Et ça n'a pas trainé, tu le connais, il a toujours voulu que les choses avancent plus vite que ce qu'elles étaient.
+Oui. L'aîné a fait sauter le mur porteur. On l'a enlevé tous les deux, cette cloison, lui et moi. Nous voulions de la lumière. Et ça n'a pas traîné, tu le connais, il a toujours voulu que les choses avancent plus vite que ce qu'elles étaient.
 
 *(Ils redescendent. Au palier, un escalier plus étroit continue vers le grenier. La sœur s'arrête devant, la main sur la rampe, sans monter.)*
 
@@ -77,7 +77,7 @@ Et papa, le matin, avant de partir ! Il restait des heures là, à rien dire, ju
 Oui ! Et maman, elle, s'activait pour que tout soit prêt. Le café bien chaud et les tartines prêtes.
 
 **La sœur :**
-Ca me semble si loin.
+Ça me semble si loin.
 
 **Le père :**
 Et toi et moi, tu te souviens ? On était différents déjà !

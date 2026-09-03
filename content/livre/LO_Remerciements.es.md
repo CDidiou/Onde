@@ -1,5 +1,5 @@
 ---
-title: "(La Ola) Ciclo de Bernardy y Lilaz"
+title: "(La Ola) Ciclo de Bernardo y Lilaz"
 date: 2026-08-24
 version: 1.0
 weight: 1
@@ -106,4 +106,4 @@ Necesito renovar una casa de la infancia.
 ## Agradecimientos
 
 A mis hijos. Y a los que vendrán después.
-Por tu armonía.
+Por su armonía.

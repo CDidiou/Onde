@@ -7,7 +7,7 @@ weight: 1
 
 # L'Onde
 
-L'onde est une oeuvre en plusieurs parties:
+L'onde est une œuvre en plusieurs parties:
 - Le Bureau de Poste
   - Partie 1: La Fièvre
   - Partie 2: La Plume
@@ -62,7 +62,7 @@ Celle d'un amour qui demeure.
 Celle d'une histoire écrite avec le cœur.
 
 
-### 4eme de couverture
+### 4ème de couverture
 
 L’Onde
 Ce qui se transmet sans jamais être tout à fait compris

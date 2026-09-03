@@ -71,7 +71,7 @@ Je ne t'ai jamais désobéi. Tu as été pour moi douce et intraitable. Je n'ai 
 Tu ne le dis pas avec beaucoup de joie dans la voix.
 
 **Le fils cadet :**
-Non, parce que ce qui est étrange, c'est que je n'ai jamais réussi à séparer les deux. J'ai fait des études froides, techniques, pleines de calculs. Mais je passe mon temps à construire des concepts, à mettre du sens aux événments, à les relier, à décortiquer les gens autour de moi exactement comme tu m'as appris à le faire. Mes collègues me disent que je vois des choses que personne d'autre ne voit dans une réunion. Et à la maison, je démonte tout ce qui me tombe sous la main. Les radios, les vieilles pendules, les jouets de mes fils. Je ne supporte pas de ne pas savoir comment ça marche. Et encore après je cherche pourquoi ça marche.
+Non, parce que ce qui est étrange, c'est que je n'ai jamais réussi à séparer les deux. J'ai fait des études froides, techniques, pleines de calculs. Mais je passe mon temps à construire des concepts, à mettre du sens aux événements, à les relier, à décortiquer les gens autour de moi exactement comme tu m'as appris à le faire. Mes collègues me disent que je vois des choses que personne d'autre ne voit dans une réunion. Et à la maison, je démonte tout ce qui me tombe sous la main. Les radios, les vieilles pendules, les jouets de mes fils. Je ne supporte pas de ne pas savoir comment ça marche. Et encore après je cherche pourquoi ça marche.
 
 **La mère :**
 Tu démontes les objets comme tu décodes les gens.
